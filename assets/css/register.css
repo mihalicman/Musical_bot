@@ -1,0 +1,172 @@
+/*reģistrēties logs*/
+
+#registracija {
+    text-align: center;
+    padding-top: 2%;
+}
+
+input[type=text], input[type=password] {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    margin-bottom: 10%;
+    width: 30%;
+    padding: 15px;
+    display: list-item;
+    border: none;
+    background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+    background-color: #ddd;
+    outline: none;
+}
+
+hr {
+    border: 1px solid #f1f1f1;
+    width: 473px;
+    margin-top: 2%;
+}
+
+.registracijas_poga {
+    background-color: #5b0606;
+    color: white;
+    padding: 16px 16px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 10%;
+}
+
+.registracijas_poga:hover {
+    background-color: #2a0303;
+}
+
+.pieslegties_logs {
+    padding: 16px;
+    background-color: #2a0303;
+    text-align: center;
+}
+
+/*pieslēgties logs*/
+
+#pieslegties {
+    text-align: center;
+    padding-top: 2%;
+}
+
+input[type=text], input[type=password] {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    width: 30%;
+    padding: 15px;
+    display: list-item;
+    border: none;
+    background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+    background-color: #ddd;
+    outline: none;
+}
+
+.pieslegties_poga {
+    background-color: #5b0606;
+    color: white;
+    padding: 16px 16px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 10%;
+}
+
+.pieslegties_poga:hover {
+    background-color: #2a0303;
+}
+
+.registracijas_logs {
+    padding: 16px;
+    background-color: #2a0303;
+    text-align: center;
+}
+
+/*mainīt paroli logs*/
+
+#atjaunot_paroli {
+    text-align: center;
+    padding: 2%;
+}
+
+input[type=text], input[type=password] {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    width: 30%;
+    padding: 15px;
+    display: list-item;
+    border: none;
+    background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+    background-color: #ddd;
+    outline: none;
+}
+
+.atjaunot_poga {
+    background-color: #04AA6D;
+    color: white;
+    padding: 16px 16px;
+    border: none;
+    cursor: pointer;
+    width: 10%;
+}
+
+.atjaunot_poga:hover {
+    background-color: #028354;
+}
+
+/*atjaunot paroli logs*/
+
+#mainit_paroli {
+    text-align: center;
+    padding: 2%;
+}
+
+input[type=text], input[type=password] {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    width: 30%;
+    padding: 15px;
+    display: list-item;
+    border: none;
+    background: #f1f1f1;
+}
+
+input[type=text]:focus, input[type=password]:focus {
+    background-color: #ddd;
+    outline: none;
+}
+
+.mainit_poga {
+    background-color: #04AA6D;
+    color: white;
+    padding: 16px 16px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 10%;
+}
+
+.mainit_poga:hover {
+    background-color: #028354;
+}

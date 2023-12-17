@@ -1,0 +1,19 @@
+.book-row {
+    width: auto;
+    height: auto;
+    padding-left: 15px;
+    padding-top: 25px;
+    padding-right: 20px;
+    margin-bottom: 0px;
+}
+
+.main-book-row {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+}
+
+.title {
+    display: block;
+    padding-left: 30px;
+    padding-top: 25px;
+}

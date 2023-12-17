@@ -1,0 +1,37 @@
+.nav-bar ul {
+    list-style-type: none;
+    margin: 0;
+    text-decoration: none;
+    display: flex;
+}
+
+h2 span{
+	color:  #5383d3;
+}
+
+.nav-bar li {
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: 16px;
+    margin-left: 30px;
+}
+
+.nav-bar li, a {
+    text-decoration: none;
+    color: white;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.nav-bar-wrapper {
+    background-color: #33383b;
+    min-height: 50px;
+}
+
+.nav-bar {
+    width: 1140px;
+    margin: auto
+}
+
+.logo {
+    margin-right: auto;
+}

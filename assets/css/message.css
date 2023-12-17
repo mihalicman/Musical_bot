@@ -1,0 +1,8 @@
+.msg-cover {
+    width: 473px;
+    margin: auto auto;
+    border-style: solid;
+    border-color: #dd0015;
+    border-radius: 10px;
+    font-weight: bold;
+}
