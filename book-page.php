@@ -80,7 +80,7 @@
                         <?php
                             //Session check for download
                             if (isset($_SESSION['user'])) {
-                                echo '<a href="" download="' . $book_result["title"] . ".pdf" . '">Klausīties</a>';
+                                echo '<a href="" download="' . $book_result["title"] . ".mp3" . '">Klausīties</a>';
                             } else{ 
                                 echo '<a>Lasīt</a>';
                             }

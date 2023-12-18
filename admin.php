@@ -265,7 +265,7 @@
                                 <label>Datums</label>
                                 <input type="date"  name="date" placeholder="Datums" required>
                                 
-                                <button type="sumbit" class="add-book" name="add-book">Pievienot grāmatu</button>
+                                <button type="sumbit" class="add-book" name="add-book">Pievienot mūziku</button>
                             </div>
                         </form>      
                     </div>
