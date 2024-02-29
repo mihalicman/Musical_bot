@@ -1,29 +1,14 @@
-Lietotājam būs iespējas veikt šādas funkcijas.
+Lietotājs var veikt šādas funkcijas:
 
-•	Reģistrēties sistēmā – lietotājs izveido kontu sistēmā, norādot savu lietotājvārdu, e-pastu un paroli, ko jāievada divas reizes.
+•	Reģistrēties sistēmā – lietotājs var izveidot kontu sistēmā, vajadzības gadījuma notiek datu validācija un paradīsies kļūdas ziņojums.
 
-•	Pieslēgties sistēmā –  lietotājs pieteicas sistēmai, izmantojot iepriekš ievadītus datus reģistrējoties (e-pasts vai lietotājvārds un parole).
+•	Pieslēgties sistēmā –  lietotājs var pieslēgties sistēmai, tur vinš var parvaldīt savu profilu un mainīt paroli (vajadzības gadījuma notiek datu validācija).
 
-•	Pārvaldīt profilu – lietotājs var pārvaldīt profila datus – vārds, uzvārds, lietotājvārds, e-pasts.  
+•	Meklēt dziesmas – lietotājs var meklēt melodijas, klausīties tos, lejupielādēt tos un arī vertēt tos.
 
-•	Mainīt paroli – lietotājs var mainīt profila paroli, ievadot veco un jauno divas reizes.
+•	Izveidot playlist – lietotājs var izveidot playlist, pievienot tur dziesmas un efektus un var dalīties ar savo playlist sociālajos tīklos.
 
-•	Meklēt melodijas – lietotājs var meklēt melodijas, izmantojot dažādus kritērijus, piemēram, žanru, autoru, nosaukumu vai gadu.
+Administrators var veikt šādas funkcijas.
 
-•	Izveidot melodiju – lietotājs var izveidot jaunas melodijas, izvēloties mūzikas instrumentus, efektus un nosaukumu.
-
-•	Koplietot melodiju – lietotājs var dalīties ar radītajām melodijām sociālajos tīklos vai citos digitālos projektos.
-
-•	Eksperimentēt ar virtuālajiem instrumentiem – lietotājs var izmēģināt un eksperimentēt ar dažādiem virtuālajiem mūzikas instrumentiem.
-
-•	Vērtēt melodijas – lietotājs var vērtēt un komentēt citu lietotāju radītās melodijas
-
-
-Administratoram būs iespējas veikt šādas funkcijas.
-
-•	Pievienot jaunus mūzikas instrumentus - administrators var papildināt sistēmu ar jauniem mūzikas instrumentiem un efektiem.
-
-•	Rediģēt esošos virtuālos instrumentus - administrators var veikt izmaiņas esošajos virtuālajos instrumentos un to kombinācijās.
-
-•	Pievienot jaunas melodijas - administrators var pievienot jaunas melodijas sistēmai.
+•	Pieslēgties sistēmā –  administrators var pieslēgties sistēmai, tur vinš var rediģet esošos lietotāju profilus, pievienot jaunas dziemas, ka arī rediģēt jau esošas dziesmas.
 
